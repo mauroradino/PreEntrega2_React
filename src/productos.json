@@ -1,0 +1,83 @@
+[ 
+    {
+    "id": 1,    
+    "nombre": "MODE2BLACK",
+    "precio": 500,
+    "descripcion": "High quality headphones, 20h battery life",
+    "imagenURL": "https://images.prom.ua/3431591509_w640_h640_besprovodnye-naushniki-marshall.jpg",
+    "imagenURL2": "https://www.marshallheadphones.com/on/demandware.static/-/Sites-zs-master-catalog/default/dw3b62ed37/images/marshall/headphones/mode-ii/high-res/pos-highres-marshall-mode-ii-black-01.png",
+    "imagenURL3": "https://www.marshallheadphones.com/on/demandware.static/-/Library-Sites-SharedLibrary-Marshall/default/dw3a3a357f/images/categories/headphones/mode-ii/mobile/03-usp03-mode-ii-mobile@5xV2.png"
+    },
+    {
+        "id": 2,    
+        "nombre": "WAVE100TWS",
+        "precio": 500,
+        "descripcion": "High quality headphones, 20h battery life",
+        "imagenURL": "https://uk.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwa40c862a/1.JBL_Wave_VIBE_100TWS_Product%20Images_Hero_Ivory.png?sw=680&sh=680",
+        "imagenURL2": "https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw16169633/4.JBL_Wave_VIBE_100TWS_Product%20Images_Detail_Ivory.png?sw=537&sfrm=png",
+        "imagenURL3": "https://d2r9epyceweg5n.cloudfront.net/stores/002/363/620/products/6-jbl_wave_vibe_100tws_product-images_top-case_ivory1-9650a39efa6725e16816764697912176-1024-1024.webp"
+        },
+        {
+            "id": 3,    
+            "nombre": "TUNE230TWS",
+            "precio": 500,
+            "descripcion": "High quality headphones, 20h battery life",
+            "imagenURL": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/153/197/products/1-jbl_tune_230nc_productimage_hero_black1-3526b309448ec94a1f16505686424220-640-0.png",
+            "imagenURL2": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/153/197/products/2-jbl_tune_230nc_productimage_front_black1-407c8c236315a1bdd816505686421682-640-0.png",
+            "imagenURL3": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/153/197/products/3-jbl_tune_230nc_productimage_earbudback_black_1-8e129f62b562ba49b616505686424423-640-0.png"
+            },
+            {
+                "id": 4,    
+                "nombre": "LINKBUDS",
+                "precio": 500,
+                "descripcion": "High quality headphones, 20h battery life",
+                "imagenURL": "https://d13o3tuo14g2wf.cloudfront.net/thumbnails%2Flarge%2FAsset+Hierarchy%2FConsumer+Assets%2FAccessories+%28Assets%29%2FHeadphones%2FEarbuds%2F2022%2FWF-L900%2FW%2FeComm-Gray%2F03-LinkBuds_B_case_open2.png.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTNvM3R1bzE0ZzJ3Zi5jbG91ZGZyb250Lm5ldC90aHVtYm5haWxzJTJGbGFyZ2UlMkZBc3NldCtIaWVyYXJjaHklMkZDb25zdW1lcitBc3NldHMlMkZBY2Nlc3NvcmllcyslMjhBc3NldHMlMjklMkZIZWFkcGhvbmVzJTJGRWFyYnVkcyUyRjIwMjIlMkZXRi1MOTAwJTJGVyUyRmVDb21tLUdyYXklMkYwMy1MaW5rQnVkc19CX2Nhc2Vfb3BlbjIucG5nLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTc2MjAwMH19fV19&Signature=VJfEJkcA7Psu1N0s3yy1iojwypBu6djdG-9HtEgKrJlBVMIkRlUEGO5oDX5J1Wtzqivw8NVRMNhiS8qtzqXzCRfCDGdW4WKW3sobp9PeX8LKycyaovPcwKc-WR0fuDLN5xYkqUPJESVpbMrOq9KAmo8RhGPrxee3Lt55-6jL0mAYvnf4AvrOgDW-wpZxUBz9L-yGUn6ZD84cBhZdXF8GRYoQ7Xb7a7MlBSxHVqxhAGpqgo-XtDYSnZoJyIoBj9MUQuGrjzgCo~CdrmiUMJ907dlUpRucTh~NNuD6TmGzdLPdtI7ib2d0GmzAFKNCk7SuAihj6bfy18uNn0oHkqGwRQ__&Key-Pair-Id=K37BLT9C6HMMJ0",
+                "imagenURL2": "https://store.sony.com.au/dw/image/v2/ABBC_PRD/on/demandware.static/-/Sites-sony-master-catalog/default/dw0ea608e4/images/WFL900H/WFL900H.png?sw=350&sh=350&sm=fit",
+                "imagenURL3": "https://d13o3tuo14g2wf.cloudfront.net/thumbnails%2Flarge%2FAsset+Hierarchy%2FConsumer+Assets%2FAccessories+%28Assets%29%2FHeadphones%2FEarbuds%2F2022%2FWF-L900%2FH%2FeComm-White%2F11-LinkBuds_G_fitting_side.png.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTNvM3R1bzE0ZzJ3Zi5jbG91ZGZyb250Lm5ldC90aHVtYm5haWxzJTJGbGFyZ2UlMkZBc3NldCtIaWVyYXJjaHklMkZDb25zdW1lcitBc3NldHMlMkZBY2Nlc3NvcmllcyslMjhBc3NldHMlMjklMkZIZWFkcGhvbmVzJTJGRWFyYnVkcyUyRjIwMjIlMkZXRi1MOTAwJTJGSCUyRmVDb21tLVdoaXRlJTJGMTEtTGlua0J1ZHNfR19maXR0aW5nX3NpZGUucG5nLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTc2MjAwMH19fV19&Signature=HPF2un3KFfeGFKZdeOQCtR2FQGwBOkyMchr68QNvMw5J97dHTCyc7xVA34yVn~KMO2Tc0AAedQDxkPcxnVIxpSjBh3tXyx8C83J7jUkbraYTdevLS6b6W6BHdT0JMJKbEz8FcpFipLwZ8wnN6U2o9WrLhkzDoS3JAovt2L8Ks252aexAHaCeXy47DO6tsXU4A6pOpxpz9AlJkxPz4mjJnIXmW7yJbTbB0DXChEFo7AKz0ZO4aekPhTJFUNQRBscGmjygh-vdz4f-x-51dexJQEou0D6PPjReEADI0cRyIqf1kK0b2uWWUs8~lZQ9yWZ52nxw7AXnCn7SFWIkxxN4Bw__&Key-Pair-Id=K37BLT9C6HMMJ0"
+                },
+                {
+                    "id": 5,    
+                    "nombre": "JBL TOUR PRO",
+                    "precio": 500,
+                    "descripcion": "High quality headphones, 20h battery life",
+                    "imagenURL":  "https://ecommerce.mysav.eu/3116-home_default/cargador-jbl-tour-pro-tws-r24-1.jpg",
+                    "imagenURL2": "https://www.spark.co.nz/content/dam/spark/images/product-images/accessories/headphones/jbl/jbl-tour-pro-2/jbl-tour-pro-2-black-6.png",
+                    "imagenURL3": "https://40bc23136fbccfbfd16a-d1efe2f0adbefb811760622b90eef2d8.ssl.cf5.rackcdn.com/1-kzehFeY6-large.png"
+                    },
+                    {
+                        "id": 6,    
+                        "nombre": "WF-1000XM4",
+                        "precio": 500,
+                        "descripcion": "High quality headphones, 20h battery life",
+                        "imagenURL": "https://d13o3tuo14g2wf.cloudfront.net/thumbnails%2Flarge%2F_default_upload_bucket%2F03.-WF-1000XM4_B_case_open_one_side_out-Mid_1.png.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTNvM3R1bzE0ZzJ3Zi5jbG91ZGZyb250Lm5ldC90aHVtYm5haWxzJTJGbGFyZ2UlMkZfZGVmYXVsdF91cGxvYWRfYnVja2V0JTJGMDMuLVdGLTEwMDBYTTRfQl9jYXNlX29wZW5fb25lX3NpZGVfb3V0LU1pZF8xLnBuZy5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjIxNDU3NjIwMDB9fX1dfQ__&Signature=i8XaX0uGfwmWW9owWKBMgcVMdOn9nWdJFyk86mXSYjg5dwEm5~VXoUtWKDjMqkclZ~LJ5RC-W58x16TU~HnhIBsXf9D8~mqZegX-KbEJeMxkZcpUziUjYND-WaEpuIwE~2vxtQuaX6MK7fvcj5oeUqEGrnhnYJq9MDrdlNmMLs74wutpzGrMB52Z8Gxa0uDOEOvmu60T7F~CWJxUGMMfbiKuDcH8u-936uMc9ttFzhrBeUkzcAkof~2vDzyD0oS98IpBLqQLRNeOhXRoyMbjNFmkRcPXipx6ZEH1beE9bXyIUV9CRAK6g8m92QGMoa0~Vu5ABD3e3cB~N4jdXpou2Q__&Key-Pair-Id=K37BLT9C6HMMJ0",
+                        "imagenURL2": "https://arsonyb2c.vtexassets.com/arquivos/ids/357009/d7b7a583061ec800dfa74bea7bc37941.jpg?v=637588122166530000",
+                        "imagenURL3": "https://sony.scene7.com/is/image/sonyglobalsolutions/product-primary-image-grey-1200x1200?$mediaCarouselSmall$&fmt=png-alpha"
+                        },
+                        {
+                            "id": 7,    
+                            "nombre": "WFC500",
+                            "precio": 500,
+                            "descripcion": "High quality headphones, 20h battery life",
+                            "imagenURL": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1674054603/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/247474_0_q7oyv0.png/mxw_640,f_auto",
+                            "imagenURL2": "https://d13o3tuo14g2wf.cloudfront.net/thumbnails%2Flarge%2F_default_upload_bucket%2FWF-C500_black_001_4.png.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTNvM3R1bzE0ZzJ3Zi5jbG91ZGZyb250Lm5ldC90aHVtYm5haWxzJTJGbGFyZ2UlMkZfZGVmYXVsdF91cGxvYWRfYnVja2V0JTJGV0YtQzUwMF9ibGFja18wMDFfNC5wbmcucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoyMTQ1NzYyMDAwfX19XX0_&Signature=i7B7oqOVBEOiNXszatNBwFeIsH~rkH5ofLPYHIQjOTWLXbhoSZ3OT6mSb~AnFNkIkpGtGHXzNjZCDjZ-H7rurelNnSZarG3A0rih3Ga1hkRYNwieKw0w50Ux~KR8vPuFTGlhWQb~ZBLUkW6cn~dMMZX0L1c24GYnEapgxCxRmD0xACbrjXA~h1x40VtK1AUW5416gOpoCDlwSgDeDkcd9HAzHoCCl99wsrrRMzYNvlHzi1vPaiixRn4OnZt4BwSuf6-LBNtMg9qDV8QyGWLOP9i4T5X0htsBPp~ldaCuU3uPclxs8bvWESYXuO78FHwHpQ5X2TUjTKT-E2SZa8618g__&Key-Pair-Id=K37BLT9C6HMMJ0",
+                            "imagenURL3": "https://www.sony.ca/image/cbca09d677ee764befdd130dbdb9dc90?fmt=png-alpha&wid=900&hei=800"
+                            },
+                            {
+                                "id": 8,    
+                                "nombre": "AIRPODSPRO2",
+                                "precio": 500,
+                                "descripcion": "High quality headphones, 20h battery life",
+                                "imagenURL": "https://iphoneros.com/wp-content/uploads/2020/10/50DE4744-5400-43C6-8187-612A531AFB58.png",
+                                "imagenURL2": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP880/sp880-airpods-Pro-2nd-gen.png",
+                                "imagenURL3": "https://cdn.shopify.com/s/files/1/1234/9356/products/image_4ae1451f-67ae-4a85-955d-d19202659e92_500x500.png?v=1669718747"
+                                },
+                                {
+                                    "id": 9,    
+                                    "nombre": "BUD2PRO",
+                                    "precio": 500,
+                                    "descripcion": "High quality headphones, 20h battery life",
+                                    "imagenURL": "https://samsungar.vtexassets.com/arquivos/ids/184122-800-auto?width=1000&height=auto&aspect=true",
+                                    "imagenURL2": "https://images.samsung.com/is/image/samsung/p6pim/ar/2208/gallery/ar-galaxy-buds2-pro-r510-sm-r510nzaaaro-533194898?$650_519_PNG$",
+                                    "imagenURL3": "https://api.sammobile.com/static/4-006_product_galaxy_buds2pro_borapurple_case_top_combination_dynamic_LI.png?1660133798"
+                                    }
+]
