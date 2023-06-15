@@ -11,7 +11,7 @@ const DetailsPage = () => {
     console.log(id)
     return (
         <div style={{backgroundColor: '#e0e0e0'}}>
-        <h1>PRODUCTS</h1>
+        <h1>{Productos[id-1].nombre}</h1>
         <div className='detailCard' >
             <div className={`cardDetail`}>
             <div id="carouselExampleIndicators" className="carousel slide">
@@ -43,7 +43,7 @@ const DetailsPage = () => {
               <div className="card-body">
                 <h5 className="card-title">{Productos[id-1].name}</h5>
                 <p className="card-text">{Productos[id-1].descripcion}</p>
-                <Link className='Link' to={`/details/${id-1}}`}>Add to Cart</Link>
+                <Link className='Link' to={`/Item/${id-1}}`}>Add to Cart</Link>
               </div>
             </div>
           </div>

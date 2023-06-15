@@ -17,8 +17,8 @@ const CategoryPage = () => {
               <img src={producto.imagenURL} className="card-img-top"  alt="Imagen Producto" />
               <div className="card-body">
                 <h5 className="card-title">{producto.nombre}</h5>
-                <p className="card-text">{producto.descripcion}</p>
-                <Link className='Link' to={`/details/${producto.id}`}>More Details</Link>
+                <p className="card-text">Cost: ${producto.precio}</p>
+                <Link className='Link' to={`/Item/${producto.id}`}>More Details</Link>
               </div>
             </div>
           ))}

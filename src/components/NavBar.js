@@ -12,7 +12,7 @@ function NavBar(props) {
         className="container-fluid"
         style={{ backgroundColor: props.bgMain }}
       >
-        <h1 className="h1_navbar">E-HEADPHONES</h1>
+        <Link to="/" className="h1_navbar">E-HEADPHONES</Link>
         <button
           className="navbar-toggler"
           type="button"
@@ -41,8 +41,8 @@ function NavBar(props) {
                   Products
                 </Dropdown.Toggle>
                 <Dropdown.Menu>
-                  <Dropdown.Item><Link className="link" to="/Category">Headphones</Link></Dropdown.Item>
                   <Dropdown.Item><Link className="link" to="/Category">In-Ears</Link></Dropdown.Item>
+                  <Dropdown.Item><Link className="link" to="/Category">Headphones</Link></Dropdown.Item>
                 </Dropdown.Menu>
               </Dropdown>
             </li>
