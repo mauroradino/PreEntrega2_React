@@ -7,11 +7,11 @@ const Footer = () => {
       <hr></hr>
     <footer>
       <ul class="nav justify-content-center border-bottom">
-        <li class="nav-item"><a class="nav-link px-2 text-body-secondary">Home</a></li>
-        <li class="nav-item"><a class="nav-link px-2 text-body-secondary">Clients</a></li>
-        <li class="nav-item"><a class="nav-link px-2 text-body-secondary">About Us</a></li>
-        <li class="nav-item"><a class="nav-link px-2 text-body-secondary">Products</a></li>
-        <li class="nav-item"><a class="nav-link px-2 text-body-secondary">FAQs</a></li>
+        <li class="nav-item"><p class="nav-link px-2 text-body-secondary">Home</p></li>
+        <li class="nav-item"><p class="nav-link px-2 text-body-secondary">Clients</p></li>
+        <li class="nav-item"><p class="nav-link px-2 text-body-secondary">About Us</p></li>
+        <li class="nav-item"><p class="nav-link px-2 text-body-secondary">Products</p></li>
+        <li class="nav-item"><p class="nav-link px-2 text-body-secondary">FAQs</p></li>
       </ul>
       <p class="text-center text-body-secondary">© 2023 E-HEADPHONES, Inc</p>
     </footer>
