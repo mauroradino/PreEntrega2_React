@@ -6,6 +6,7 @@ function HomePage() {
   return (
     <div style={{backgroundColor:"#e0e0e0"}}>
       <div className='body'>
+        <h1>HOMEPAGE</h1>
         <ItemListComponent  greeting = "BIENVENIDOS"/>
       </div>
       </div>
