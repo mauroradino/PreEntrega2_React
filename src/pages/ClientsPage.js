@@ -1,8 +1,7 @@
 import React from 'react'
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import './AboutPage.css'
 
-function AboutPage() {
+function ClientsPage() {
   return (
     <div style={{backgroundColor:"#e0e0e0"}}>
       <div className='body'>
@@ -12,4 +11,4 @@ function AboutPage() {
   )
 }
 
-export default AboutPage
+export default ClientsPage

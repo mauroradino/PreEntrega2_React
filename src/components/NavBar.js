@@ -30,10 +30,10 @@ function NavBar(props) {
               <Link className="link" to="/">Home</Link>
             </li>
             <li className="nav-item">
-            <Link className="link" to="/AboutPage">Clients</Link>
+            <Link className="link" to="/clients">Clients</Link>
             </li>
             <li className="nav-item">
-             <Link className="link" to="/AboutPage">About Us</Link>
+             <Link className="link" to="/about_us">About Us</Link>
             </li>
             <li className="nav-item dropdown">
               <Dropdown>
@@ -41,8 +41,8 @@ function NavBar(props) {
                   Products
                 </Dropdown.Toggle>
                 <Dropdown.Menu>
-                  <Dropdown.Item><Link className="link" to="/Category">In-Ears</Link></Dropdown.Item>
-                  <Dropdown.Item><Link className="link" to="/Category">Headphones</Link></Dropdown.Item>
+                  <Dropdown.Item><Link className="link" to="/category">In-Ears</Link></Dropdown.Item>
+                  <Dropdown.Item><Link className="link" to="/category">Headphones</Link></Dropdown.Item>
                 </Dropdown.Menu>
               </Dropdown>
             </li>
