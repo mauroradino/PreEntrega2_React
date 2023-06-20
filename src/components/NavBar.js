@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { Dropdown } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./NavBar.css";
 import CardWidget from "./CardWidget.js";
@@ -35,16 +34,8 @@ function NavBar(props) {
             <li className="nav-item">
              <Link className="link" to="/about_us">About Us</Link>
             </li>
-            <li className="nav-item dropdown">
-              <Dropdown>
-                <Dropdown.Toggle variant="secondary" id="dropdown-basic">
-                  Products
-                </Dropdown.Toggle>
-                <Dropdown.Menu>
-                  <Dropdown.Item><Link className="link" to="/category">In-Ears</Link></Dropdown.Item>
-                  <Dropdown.Item><Link className="link" to="/category">Headphones</Link></Dropdown.Item>
-                </Dropdown.Menu>
-              </Dropdown>
+            <li className="nav-item">
+             <Link className="link" to="/category">Products</Link>
             </li>
           </ul>
         </div>

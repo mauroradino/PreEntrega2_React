@@ -1,5 +1,5 @@
 import React from 'react'
-import ItemListComponent from '../components/ItemListComponent'
+import ItemListComponent from '../../components/ItemListComponent'
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 function HomePage() {

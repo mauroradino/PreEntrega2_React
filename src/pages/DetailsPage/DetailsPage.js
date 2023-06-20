@@ -3,7 +3,7 @@ import { Link, useParams} from 'react-router-dom'
 import './DetailsPage.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
-import Productos from '../productos.json'
+import Productos from '../../productos.json'
 import './DetailsPage.css'
 
 const DetailsPage = () => {

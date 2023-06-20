@@ -1,10 +1,12 @@
 import './App.css';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import NavBar from './components/NavBar';
-import HomePage from './pages/HomePage';
-import CategoryPage from './pages/CategoryPage';
-import AboutPage from './pages/AboutPage';
-import DetailsPage from './pages/DetailsPage';
+import HomePage from './pages/HomePage/HomePage';
+import AboutPage from './pages/AboutPage/AboutPage';
+import DetailsPage from './pages/DetailsPage/DetailsPage';
+import CategoryPage from './pages/CategoryPage/CategoryPage';
+import InearsPage from './pages/InearsPage/InearsPage'
+import HeadphonesPage from './pages/HeadphonesPage/HeadphonesPage';
 import ClientsPage from './pages/ClientsPage';
 import Footer from './components/Footer';
 
@@ -18,6 +20,8 @@ function App() {
         <Route path="/about_us" element={<AboutPage/>} />
         <Route path="/clients" element={<ClientsPage/>} />
         <Route path="/category" element={<CategoryPage/>} />
+        <Route path='/category/Inears' element={<InearsPage/>}/>
+        <Route path='/category/Heaphones' element={<HeadphonesPage/>}/>
         <Route path="/item/:id" element={<DetailsPage/>}/>
       </Routes>
       <Footer />
