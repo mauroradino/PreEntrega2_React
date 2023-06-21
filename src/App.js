@@ -20,8 +20,8 @@ function App() {
         <Route path="/about_us" element={<AboutPage/>} />
         <Route path="/clients" element={<ClientsPage/>} />
         <Route path="/category" element={<CategoryPage/>} />
-        <Route path='/category/Inears' element={<InearsPage/>}/>
-        <Route path='/category/Heaphones' element={<HeadphonesPage/>}/>
+        <Route path='/category/:categoria' element={<InearsPage/>}/>
+        <Route path='/category/:categoria' element={<HeadphonesPage/>}/>
         <Route path="/item/:id" element={<DetailsPage/>}/>
       </Routes>
       <Footer />
