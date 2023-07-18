@@ -8,7 +8,7 @@ function CategoryPage() {
     <div className='box'>
       <div className="row">
   <div className="col-sm-6">
-  <Link to="/category/Heaphones" className="cardCategory">
+  <Link to="/category/Headphones" className="cardCategory">
     <div className="card">
       <div className="card-body">
         <h5 className="card-title">Headphones Section</h5>
@@ -17,7 +17,7 @@ function CategoryPage() {
     </div></Link>
   </div>
   <div className="col-sm-6">
-  <Link to="/Category/Inears" className="cardCategory">
+  <Link to="/category/Inears" className="cardCategory">
     <div className="card">
       <div className="card-body">
         <h5>In-Ears Section</h5>

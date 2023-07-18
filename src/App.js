@@ -9,21 +9,26 @@ import InearsPage from './pages/InearsPage/InearsPage'
 import HeadphonesPage from './pages/HeadphonesPage/HeadphonesPage';
 import ClientsPage from './pages/ClientsPage';
 import Footer from './components/Footer';
+import Cart from './pages/Cart/Cart';
+import { ProductProvider } from './context/productContext';
 
 function App() {
   return (
     <Router>
       <div className='App'>
+      <ProductProvider>
       <NavBar />
       <Routes>
         <Route path="/" element={<HomePage/>} />
         <Route path="/about_us" element={<AboutPage/>} />
         <Route path="/clients" element={<ClientsPage/>} />
         <Route path="/category" element={<CategoryPage/>} />
-        <Route path='/category/:categoria' element={<InearsPage/>}/>
-        <Route path='/category/:categoria' element={<HeadphonesPage/>}/>
+        <Route path='/category/Inears' element={<InearsPage/>}/>
+        <Route path='/category/Headphones' element={<HeadphonesPage/>}/>
+        <Route path='/Cart' element={<Cart/>}/>
         <Route path="/item/:id" element={<DetailsPage/>}/>
       </Routes>
+      </ProductProvider>
       <Footer />
       </div>
     </Router>

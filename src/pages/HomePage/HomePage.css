@@ -1,3 +1,14 @@
-.body{
-   height: 100vh; 
+.bodyHome{
+   height: 1200px; 
+}
+.tituloDestacados{
+   margin-top: 200px;
+   margin-bottom: 100px;
+}
+.cardHome{
+   height: auto !important;
+   width: 18rem;
+}
+a{
+   text-decoration: none;
 }
